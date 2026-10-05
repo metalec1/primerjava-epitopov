@@ -1,0 +1,4 @@
+Protein,ID Epitopa,Residues
+Protein_B,EP_1,"A:K108, A:L110, A:T112"
+Protein_B,EP_2,"A:A109, A:W118, A:S22"
+Protein_B,EP_3,"A:G21, A:D24, A:Y25"

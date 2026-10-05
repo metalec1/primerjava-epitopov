@@ -1,0 +1,14 @@
+# Rezultati in pravi podatki ne sodijo v repo
+*.xlsx
+*.csv
+!primeri/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
